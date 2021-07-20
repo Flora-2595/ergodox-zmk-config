@@ -10,11 +10,11 @@
                 layer_0 {
                         bindings = <
     &bootloader
-    &kp =   &kp NUM_1  &kp NUM_2  &kp NUM_3  &kp NUM_4  &kp NUM_5  &kp LARW   &RARW      &kp NUM_6  &kp NUM_7  &kp NUM_8  &kp NUM_9  &kp NUM_0  &DASH
-    &kp DEL    &kp Q      &kp W      &kp E      &kp R      &kp T      &kp CLCK   &kp M_MUTE &kp Y      &kp U      &kp I      &kp O      &kp P      &kp BSLH
-    &kp BKSP    &kp A      &kp S      &kp D      &kp F      &kp G                            &kp H      &kp J      &kp K      &kp L      &kp SCLN   &kp appostophe
+    &kp EQUAL   &kp NUM_1  &kp NUM_2  &kp NUM_3  &kp NUM_4  &kp NUM_5  &kp LARW   &RARW      &kp NUM_6  &kp NUM_7  &kp NUM_8  &kp NUM_9  &kp NUM_0  &DASH
+    &kp DEL    &kp Q      &kp W      &kp E      &kp R      &kp T      &kp CLCK   &kp M_MUTE &kp Y      &kp U      &kp I      &kp O      &kp P      &kp BACKSLASH
+    &kp BKSP    &kp A      &kp S      &kp D      &kp F      &kp G                            &kp H      &kp J      &kp K      &kp L      &kp SCLN   &kp APOSTROPHE
     &mo LSFT      &kp Z      &kp X      &kp C      &kp V      &kp B      &kp HYPER &kp CTRLSHFT &kp N      &kp M      &kp CMMA   &kp DOT    &kp FSLH   &mo TAB
-    &none      &LCTL      &kp LALT   &kp LARW   &kp RARW                                               &kp UARW   &kp DARW   &kp [   &]      &layertogg
+    &none      &LCTL      &kp LALT   &kp LARW   &kp RARW                                               &kp UARW   &kp DARW   &kp LEFT_BRACKET   &kp RIGHT_BRACKET       &layertogg
                                                            &kp DEL    &kp HOME   &kp END    &kp INS
                                                                       &kp CAPSLOCK   &kp DEL
                                                 &kp SPC    &kp BKSP                         &kp RSFT   &kp RET
